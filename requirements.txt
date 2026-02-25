@@ -1,0 +1,9 @@
+# Dependencias principales usadas en los notebooks
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+scipy>=1.10
+matplotlib>=3.6
+liac-arff>=2.5
+lightgbm>=3.3
+tqdm>=4.64
